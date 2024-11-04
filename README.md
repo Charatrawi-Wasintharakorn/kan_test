@@ -8,3 +8,5 @@ Pimraiwaa
 Sedlaa
 
 # kan_test Whattttt????!
+
+kannc คือคนคับ
